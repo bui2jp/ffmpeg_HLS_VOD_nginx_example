@@ -22,6 +22,7 @@ docker run -it --rm --name ffmpeg-test \
 ```
 $ docker run --rm --name vod-example-nginx \
     -v $(pwd)/mycontent:/usr/share/nginx/html:ro \
+    -v $(pwd)/nginx/conf.d:/etc/nginx/conf.d:ro \
     -p 8080:80 \
     -d nginx
 ```
