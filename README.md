@@ -69,3 +69,10 @@ hls.min.jsを利用
 ```
 http://localhost:8080/
 ```
+
+
+#　ffmpeg 参考
+```
+https://qiita.com/cha84rakanal/items/e84fe4eb6fbe2ae13fd8
+https://qiita.com/wMETAw/items/fdb754022aec1da88e6e
+```
